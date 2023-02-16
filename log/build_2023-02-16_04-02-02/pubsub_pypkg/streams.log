@@ -1,0 +1,31 @@
+[0.618s] Invoking command in '/home/user/ros2_ws/build/pubsub_pypkg': PYTHONPATH=/home/user/ros2_ws/install/pubsub_pypkg/lib/python3.8/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py develop --prefix /home/user/ros2_ws/install/pubsub_pypkg --uninstall --editable --build-directory /home/user/ros2_ws/build/pubsub_pypkg/build
+[1.236s] running develop
+[1.680s] Invoked command in '/home/user/ros2_ws/build/pubsub_pypkg' returned '0': PYTHONPATH=/home/user/ros2_ws/install/pubsub_pypkg/lib/python3.8/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py develop --prefix /home/user/ros2_ws/install/pubsub_pypkg --uninstall --editable --build-directory /home/user/ros2_ws/build/pubsub_pypkg/build
+[1.682s] Invoking command in '/home/user/ros2_ws/src/pubsub_pypkg': PYTHONPATH=/home/user/ros2_ws/install/pubsub_pypkg/lib/python3.8/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../../build/pubsub_pypkg build --build-base /home/user/ros2_ws/build/pubsub_pypkg/build install --prefix /home/user/ros2_ws/install/pubsub_pypkg --record /home/user/ros2_ws/build/pubsub_pypkg/install.log --single-version-externally-managed
+[2.251s] running egg_info
+[2.252s] writing ../../build/pubsub_pypkg/pubsub_pypkg.egg-info/PKG-INFO
+[2.253s] writing dependency_links to ../../build/pubsub_pypkg/pubsub_pypkg.egg-info/dependency_links.txt
+[2.254s] writing entry points to ../../build/pubsub_pypkg/pubsub_pypkg.egg-info/entry_points.txt
+[2.254s] writing requirements to ../../build/pubsub_pypkg/pubsub_pypkg.egg-info/requires.txt
+[2.255s] writing top-level names to ../../build/pubsub_pypkg/pubsub_pypkg.egg-info/top_level.txt
+[2.329s] reading manifest file '../../build/pubsub_pypkg/pubsub_pypkg.egg-info/SOURCES.txt'
+[2.330s] writing manifest file '../../build/pubsub_pypkg/pubsub_pypkg.egg-info/SOURCES.txt'
+[2.331s] running build
+[2.331s] running build_py
+[2.331s] copying pubsub_pypkg/client.py -> /home/user/ros2_ws/build/pubsub_pypkg/build/lib/pubsub_pypkg
+[2.331s] copying pubsub_pypkg/server.py -> /home/user/ros2_ws/build/pubsub_pypkg/build/lib/pubsub_pypkg
+[2.332s] running install
+[2.333s] running install_lib
+[2.335s] copying /home/user/ros2_ws/build/pubsub_pypkg/build/lib/pubsub_pypkg/client.py -> /home/user/ros2_ws/install/pubsub_pypkg/lib/python3.8/site-packages/pubsub_pypkg
+[2.335s] copying /home/user/ros2_ws/build/pubsub_pypkg/build/lib/pubsub_pypkg/server.py -> /home/user/ros2_ws/install/pubsub_pypkg/lib/python3.8/site-packages/pubsub_pypkg
+[2.336s] byte-compiling /home/user/ros2_ws/install/pubsub_pypkg/lib/python3.8/site-packages/pubsub_pypkg/client.py to client.cpython-38.pyc
+[2.337s] byte-compiling /home/user/ros2_ws/install/pubsub_pypkg/lib/python3.8/site-packages/pubsub_pypkg/server.py to server.cpython-38.pyc
+[2.338s] running install_data
+[2.340s] running install_egg_info
+[2.343s] removing '/home/user/ros2_ws/install/pubsub_pypkg/lib/python3.8/site-packages/pubsub_pypkg-0.0.0-py3.8.egg-info' (and everything under it)
+[2.343s] Copying ../../build/pubsub_pypkg/pubsub_pypkg.egg-info to /home/user/ros2_ws/install/pubsub_pypkg/lib/python3.8/site-packages/pubsub_pypkg-0.0.0-py3.8.egg-info
+[2.345s] running install_scripts
+[2.378s] Installing Client script to /home/user/ros2_ws/install/pubsub_pypkg/lib/pubsub_pypkg
+[2.380s] Installing Server script to /home/user/ros2_ws/install/pubsub_pypkg/lib/pubsub_pypkg
+[2.380s] writing list of installed files to '/home/user/ros2_ws/build/pubsub_pypkg/install.log'
+[2.413s] Invoked command in '/home/user/ros2_ws/src/pubsub_pypkg' returned '0': PYTHONPATH=/home/user/ros2_ws/install/pubsub_pypkg/lib/python3.8/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../../build/pubsub_pypkg build --build-base /home/user/ros2_ws/build/pubsub_pypkg/build install --prefix /home/user/ros2_ws/install/pubsub_pypkg --record /home/user/ros2_ws/build/pubsub_pypkg/install.log --single-version-externally-managed

@@ -1,0 +1,18 @@
+[0.635s] Invoking command in '/home/user/ros2_ws/build/pubsub_pypkg': PYTHONPATH=/home/user/ros2_ws/install/pubsub_pypkg/lib/python3.8/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py develop --prefix /home/user/ros2_ws/install/pubsub_pypkg --editable --build-directory /home/user/ros2_ws/build/pubsub_pypkg/build --no-deps install_data --install-dir /home/user/ros2_ws/install/pubsub_pypkg
+[1.240s] running develop
+[1.620s] running egg_info
+[1.620s] writing pubsub_pypkg.egg-info/PKG-INFO
+[1.621s] writing dependency_links to pubsub_pypkg.egg-info/dependency_links.txt
+[1.621s] writing entry points to pubsub_pypkg.egg-info/entry_points.txt
+[1.622s] writing requirements to pubsub_pypkg.egg-info/requires.txt
+[1.622s] writing top-level names to pubsub_pypkg.egg-info/top_level.txt
+[1.679s] reading manifest file 'pubsub_pypkg.egg-info/SOURCES.txt'
+[1.681s] writing manifest file 'pubsub_pypkg.egg-info/SOURCES.txt'
+[1.767s] running build_ext
+[1.768s] Creating /home/user/ros2_ws/install/pubsub_pypkg/lib/python3.8/site-packages/pubsub-pypkg.egg-link (link to .)
+[1.769s] Installing Client script to /home/user/ros2_ws/install/pubsub_pypkg/lib/pubsub_pypkg
+[1.770s] Installing Server script to /home/user/ros2_ws/install/pubsub_pypkg/lib/pubsub_pypkg
+[1.770s] 
+[1.771s] Installed /home/user/ros2_ws/build/pubsub_pypkg
+[1.771s] running install_data
+[1.817s] Invoked command in '/home/user/ros2_ws/build/pubsub_pypkg' returned '0': PYTHONPATH=/home/user/ros2_ws/install/pubsub_pypkg/lib/python3.8/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py develop --prefix /home/user/ros2_ws/install/pubsub_pypkg --editable --build-directory /home/user/ros2_ws/build/pubsub_pypkg/build --no-deps install_data --install-dir /home/user/ros2_ws/install/pubsub_pypkg

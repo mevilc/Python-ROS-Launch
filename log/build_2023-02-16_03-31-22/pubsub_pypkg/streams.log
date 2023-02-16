@@ -1,0 +1,25 @@
+[0.567s] Invoking command in '/home/user/ros2_ws/src/pubsub_pypkg': PYTHONPATH=/home/user/ros2_ws/install/pubsub_pypkg/lib/python3.8/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../../build/pubsub_pypkg build --build-base /home/user/ros2_ws/build/pubsub_pypkg/build install --prefix /home/user/ros2_ws/install/pubsub_pypkg --record /home/user/ros2_ws/build/pubsub_pypkg/install.log --single-version-externally-managed
+[1.102s] running egg_info
+[1.103s] writing ../../build/pubsub_pypkg/pubsub_pypkg.egg-info/PKG-INFO
+[1.103s] writing dependency_links to ../../build/pubsub_pypkg/pubsub_pypkg.egg-info/dependency_links.txt
+[1.103s] writing entry points to ../../build/pubsub_pypkg/pubsub_pypkg.egg-info/entry_points.txt
+[1.104s] writing requirements to ../../build/pubsub_pypkg/pubsub_pypkg.egg-info/requires.txt
+[1.104s] writing top-level names to ../../build/pubsub_pypkg/pubsub_pypkg.egg-info/top_level.txt
+[1.167s] reading manifest file '../../build/pubsub_pypkg/pubsub_pypkg.egg-info/SOURCES.txt'
+[1.169s] writing manifest file '../../build/pubsub_pypkg/pubsub_pypkg.egg-info/SOURCES.txt'
+[1.169s] running build
+[1.169s] running build_py
+[1.169s] copying pubsub_pypkg/client.py -> /home/user/ros2_ws/build/pubsub_pypkg/build/lib/pubsub_pypkg
+[1.170s] running install
+[1.171s] running install_lib
+[1.173s] copying /home/user/ros2_ws/build/pubsub_pypkg/build/lib/pubsub_pypkg/client.py -> /home/user/ros2_ws/install/pubsub_pypkg/lib/python3.8/site-packages/pubsub_pypkg
+[1.173s] byte-compiling /home/user/ros2_ws/install/pubsub_pypkg/lib/python3.8/site-packages/pubsub_pypkg/client.py to client.cpython-38.pyc
+[1.174s] running install_data
+[1.175s] running install_egg_info
+[1.178s] removing '/home/user/ros2_ws/install/pubsub_pypkg/lib/python3.8/site-packages/pubsub_pypkg-0.0.0-py3.8.egg-info' (and everything under it)
+[1.178s] Copying ../../build/pubsub_pypkg/pubsub_pypkg.egg-info to /home/user/ros2_ws/install/pubsub_pypkg/lib/python3.8/site-packages/pubsub_pypkg-0.0.0-py3.8.egg-info
+[1.184s] running install_scripts
+[1.206s] Installing Client script to /home/user/ros2_ws/install/pubsub_pypkg/lib/pubsub_pypkg
+[1.207s] Installing Server script to /home/user/ros2_ws/install/pubsub_pypkg/lib/pubsub_pypkg
+[1.207s] writing list of installed files to '/home/user/ros2_ws/build/pubsub_pypkg/install.log'
+[1.249s] Invoked command in '/home/user/ros2_ws/src/pubsub_pypkg' returned '0': PYTHONPATH=/home/user/ros2_ws/install/pubsub_pypkg/lib/python3.8/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../../build/pubsub_pypkg build --build-base /home/user/ros2_ws/build/pubsub_pypkg/build install --prefix /home/user/ros2_ws/install/pubsub_pypkg --record /home/user/ros2_ws/build/pubsub_pypkg/install.log --single-version-externally-managed

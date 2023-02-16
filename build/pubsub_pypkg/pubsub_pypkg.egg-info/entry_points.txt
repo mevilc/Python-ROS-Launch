@@ -1,0 +1,4 @@
+[console_scripts]
+Client = pubsub_pypkg.client:main
+Server = pubsub_pypkg.server:main
+

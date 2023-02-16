@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../build/pubsub_pypkg/pubsub_pypkg.egg-info/PKG-INFO
+../build/pubsub_pypkg/pubsub_pypkg.egg-info/SOURCES.txt
+../build/pubsub_pypkg/pubsub_pypkg.egg-info/dependency_links.txt
+../build/pubsub_pypkg/pubsub_pypkg.egg-info/entry_points.txt
+../build/pubsub_pypkg/pubsub_pypkg.egg-info/requires.txt
+../build/pubsub_pypkg/pubsub_pypkg.egg-info/top_level.txt
+../build/pubsub_pypkg/pubsub_pypkg.egg-info/zip-safe
+pubsub_pypkg/__init__.py
+pubsub_pypkg/server.py
+resource/pubsub_pypkg
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

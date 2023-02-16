@@ -1,0 +1,16 @@
+running develop
+running egg_info
+writing pubsub_pypkg.egg-info/PKG-INFO
+writing dependency_links to pubsub_pypkg.egg-info/dependency_links.txt
+writing entry points to pubsub_pypkg.egg-info/entry_points.txt
+writing requirements to pubsub_pypkg.egg-info/requires.txt
+writing top-level names to pubsub_pypkg.egg-info/top_level.txt
+reading manifest file 'pubsub_pypkg.egg-info/SOURCES.txt'
+writing manifest file 'pubsub_pypkg.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/user/ros2_ws/install/pubsub_pypkg/lib/python3.8/site-packages/pubsub-pypkg.egg-link (link to .)
+Installing Client script to /home/user/ros2_ws/install/pubsub_pypkg/lib/pubsub_pypkg
+Installing Server script to /home/user/ros2_ws/install/pubsub_pypkg/lib/pubsub_pypkg
+
+Installed /home/user/ros2_ws/build/pubsub_pypkg
+running install_data
